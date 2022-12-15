@@ -1,0 +1,736 @@
+/* ----------------------- mediaquary   ------------------ */
+/* ------------------------------------------------988-1200 -------------------------------------------------------- */
+
+@media (min-width:988px) and (max-width:1200px) {
+    .container {
+        width: 100% !important;
+        margin: 0 auto;
+        padding: 0 50px;
+    }
+
+    .sec-twop p {
+        padding: 0 0 50px 0;
+    }
+
+    .col-50 h2 {
+        padding: 70px 0 40px 0;
+    }
+}
+
+/* ---------------------------------------------------768-989 ------------------------------------------- */
+@media (min-width:768px) and (max-width:989px) {
+    .container {
+        width: 100% !important;
+        margin: 0 auto;
+        padding: 0 50px;
+    }
+
+    .link ul li a {
+        font-size: 18px;
+        margin: 0 28px;
+    }
+
+    .col-50 img {
+        padding: 50px 0 0 0;
+    }
+
+    .col-30 p {
+        padding: 0 0 30px 0;
+    }
+
+    .sec-twobutton {
+        padding: 10px 0 28px 0;
+    }
+
+    .sec-oneh1 h1 {
+        font-size: 40px;
+        padding: 25px 0 25px 0;
+    }
+
+    .sec-twoh1 h1 {
+        font-size: 40px;
+        padding: 50px 0 40px 0;
+    }
+
+    .col-50 h2 {
+        padding: 45px 0;
+    }
+
+    .col-50 p {
+        width: 100%;
+        font-size: 20px;
+        padding: 15px 0 10px 0;
+    }
+
+    .sec-onebutton input {
+        padding: 4px 18px;
+    }
+
+    .sec-threeh1 h1 {
+        padding: 10px 0;
+    }
+
+    .sec-twop p {
+        font-size: 20px;
+        width: 100%;
+        padding: 0 0 20px 0;
+    }
+
+    .sec5h1 h1 {
+        font-size: 55px;
+    }
+
+    .sec5p p {
+        font-size: 20px;
+        padding: 20px 0;
+        width: 100%;
+    }
+
+    .sec6eml input {
+        padding: 12px 25px;
+    }
+
+    .sec6h1 h1 {
+        font-size: 55px;
+    }
+
+    .sec6p p {
+        width: 100%;
+        font-size: 20px;
+        padding: 40px 0 60px 0;
+    }
+
+    .sec6sub input {
+        left: 108px;
+        bottom: 39px;
+        padding: 12px 30px;
+    }
+
+    .sec4img img {
+        width: 100%;
+        padding: 85px 0 0 0;
+    }
+}
+
+/* ------------------------------------------------668-768 ------------------------------------------- */
+@media (min-width:668px) and (max-width:768px) {
+    .container {
+        width: 100% !important;
+        margin: 0 auto;
+        padding: 0 35px;
+    }
+
+    .link ul li a {
+        margin: 0 18px;
+        font-size: 18px;
+    }
+
+    .col-50 img {
+        padding: 55px 0 0 0;
+    }
+
+    .sec-oneh1 h1 {
+        font-size: 40px;
+        padding: 25px 0;
+    }
+
+    .col-50 p {
+        padding: 15px 0 20px 0;
+    }
+
+    .sec-twoh1 h1 {
+        font-size: 30px;
+        padding: 35px 0 25px 0;
+    }
+
+    .sec-twop p {
+        width: 100%;
+        font-size: 20px;
+        padding: 0;
+    }
+
+    .sec-twobutton input {
+        padding: 5px 18px;
+        font-weight: 400px;
+    }
+
+    .col-30 h4 {
+        font-size: 20px;
+    }
+
+    .col-30 p {
+        font-size: 18px;
+        padding: 0 0 8px 0;
+    }
+
+    .sec-twobutton {
+        padding: 10px 0 20px 0;
+    }
+
+    .sec-threeh1 h1 {
+        font-size: 35px;
+        padding: 15px 0 0 0;
+    }
+
+    .sec-threecol-50 {
+        padding: 0 0 18px 0;
+    }
+
+    .col-50 h2 {
+        font-size: 40px;
+        padding: 10px 0 0 0;
+    }
+
+    .col-50 p {
+        font-size: 18px;
+    }
+
+    .sec4img img {
+        width: 100%;
+    }
+
+    .sec5h1 h1 {
+        font-size: 45px;
+    }
+
+    .sec5p p {
+        width: 100%;
+        font-size: 20px;
+        padding: 20px 0;
+    }
+
+    .sec6h1 h1 {
+        font-size: 45px;
+    }
+
+    .sec6p p {
+        padding: 35px 0 40px 0;
+        width: 100%;
+        font-size: 20px;
+    }
+
+    .sec6eml input {
+        width: 50%;
+        padding: 8px 20px;
+    }
+
+    .sec6sub input {
+        padding: 8px 30px;
+        left: 130px;
+        bottom: 31px;
+    }
+
+    .col-20 li a {
+        font-size: 16px;
+    }
+
+    .col-30 p {
+        font-size: 16px;
+    }
+
+    .col50p {
+        width: 90%;
+    }
+}
+
+/*------------------------------------------ 599-669 ---------------------------- ----------------------------- */
+@media (min-width:599px) and (max-width:669px) {
+
+    .container {
+        width: 100% !important;
+        margin: 0 auto;
+        padding: 0 10px;
+    }
+
+    .link ul li a {
+        margin: 0 15px;
+        font-size: 16px;
+    }
+
+    .col-50 img {
+        padding: 55px 0 0 0;
+    }
+
+    .sec-oneh1 h1 {
+        font-size: 30px;
+        padding: 25px 0;
+    }
+
+    .sec-onebutton input {
+        padding: 3px 8px;
+    }
+
+    .col-50 p {
+        padding: 15px 0 20px 0;
+    }
+
+    .sec-twoh1 h1 {
+        font-size: 30px;
+        padding: 35px 0 25px 0;
+    }
+
+    .sec-twop p {
+        width: 100%;
+        font-size: 20px;
+        padding: 0;
+    }
+
+    .sec-twobutton input {
+        padding: 5px 18px;
+        font-weight: 400px;
+    }
+
+    .col-30 h4 {
+        font-size: 20px;
+    }
+
+    .col-30 p {
+        font-size: 18px;
+        padding: 0 0 8px 0;
+    }
+
+    .sec-twobutton {
+        padding: 10px 0 20px 0;
+    }
+
+    .sec-threeh1 h1 {
+        font-size: 30px;
+        padding: 0;
+    }
+
+    .sec-threecol-50 {
+        padding: 0 0 18px 0;
+    }
+
+    .sec-threebutton {
+        padding: 0 0 25px 0;
+    }
+
+    .sec-threebutton input {
+        padding: 5px 20px;
+    }
+
+    .col-50 h2 {
+        font-size: 30px;
+        padding: 65px 0 55px 0;
+    }
+
+    .col-50 p {
+        font-size: 16px;
+        padding: 12px 0;
+    }
+
+    .sec4img img {
+        width: 100%;
+    }
+
+    .sec5h1 h1 {
+        font-size: 45px;
+    }
+
+    .sec5p p {
+        width: 100%;
+        font-size: 18px;
+        padding: 15px 0;
+    }
+
+    .sec6h1 h1 {
+        font-size: 45px;
+    }
+
+    .sec6p p {
+        padding: 25px 0 30px 0;
+        width: 100%;
+        font-size: 18px;
+    }
+
+    .sec6eml input {
+        width: 50%;
+        padding: 8px 20px;
+    }
+
+    .sec6sub input {
+        padding: 8px 25px;
+        left: 95px;
+        bottom: 31px;
+    }
+
+    .col-30 h1 {
+        font-size: 20px;
+        padding: 0 0 15px 0;
+    }
+
+    .logo img {
+        width: 35%;
+    }
+
+    .col-20 h1 {
+        font-size: 20px;
+        padding: 0 0 15px 0;
+    }
+
+    .col-20 li a {
+        font-size: 16px;
+    }
+
+    .col-30 p {
+        font-size: 16px;
+    }
+
+    .col50p {
+        width: 90%;
+    }
+}
+
+/*-------------------------------------------------------- 470-599 ---------------------------------------- */
+@media (min-width:470px) and (max-width:599px) {
+    .container {
+        width: 100% !important;
+        margin: 0 auto;
+        padding: 0 10px;
+    }
+ 
+    .link ul {
+        display: block;
+    }
+
+    .link ul li {
+        padding: 0 0 3px 0;
+        /* background-color: rgb(0, 0, 0); */
+        /* color: rgb(255, 255, 255); */
+    }
+    .link ul li a{
+        background-color: black;
+        font-size: 15px;
+        margin: 0 15px;
+    }
+    .col-50 img {
+        padding: 30px 0 0 0;
+    }
+
+    .sec-onebutton input {
+        padding: 4px 8px;
+    }
+
+    .logo img {
+        width: 40%;
+    }
+
+    .col-30 h4 {
+        font-size: 18px;
+    }
+
+    .col-30 p {
+        width:100%;
+        font-size: 16px;
+        padding: 5px 0;
+    }
+.col-20 li a{
+    font-size: 15px;
+}
+    .sec-twobutton {
+        padding: 10px 0;
+    }
+
+    .sec-twobutton input {
+        padding: 4px 10px;
+    }
+
+    .sec-oneh1 h1 {
+        font-size: 30px;
+        padding: 20px 0;
+    }
+
+    .col-50 {
+        width: 100%;
+        margin: 0 auto;
+        display: block;
+    }
+
+    .col-30{
+        padding: 5px;
+        width: 100%;
+        margin: 0 auto;
+        display: block;
+    }
+    .ftr{
+        display: block;
+    }
+
+    .col-20 {
+        padding: 5px;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .sec4img img {
+        width: 100%;
+    }
+
+    .col-50 h2 {
+        font-size: 24px;
+        padding: 15px 0;
+    }
+
+    .sec-twoh1 h1 {
+        padding: 10px 0;
+        font-size: 22px;
+    }
+
+    .sec-threeh1 h1 {
+        font-size: 25px;
+        padding: 5px 0;
+    }
+
+    .col-50 p {
+        padding: 7px 0 20px 0;
+        text-align: center;
+        font-size: 16px;
+    }
+
+    .sec-threeh1 {
+        padding: 30px 0 14px 0;
+    }
+
+    .sec-threebutton {
+        padding: 0 0 15px 0;
+    }
+
+    .sec-threecol-50 {
+        padding: 0 0 10px 0;
+    }
+
+    .sec-threebutton input {
+        padding: 4px 10px;
+    }
+
+    .sec-twop p {
+        font-size: 15px;
+        width: 100%;
+        padding: 0;
+    }
+
+    .sec4p p {
+        font-size: 15px;
+    }
+
+    .sec5h1 h1 {
+        padding: 5px 0;
+        font-size: 40px;
+    }
+
+    .sec5p p {
+        font-size: 18px;
+        padding: 5px 0;
+        width: 100%;
+    }
+
+    .sec6h1 h1 {
+        font-size: 50px;
+    }
+
+    .sec6p p {
+        font-size: 18px;
+        padding: 15px 0;
+        width: 100%;
+    }
+
+    .sec6eml input {
+        font-size: 10px;
+        padding: 8px 25px;
+    }
+
+    .sec6sub input {
+        font-size: 10px;
+        left: 54px;
+        bottom: 27px;
+        padding: 8px 8px;
+    }
+
+    .col-30 h1 {
+        font-size: 22px;
+        padding: 0 0 10px 0;
+    }
+
+    .col-20 h1 {
+        font-size: 22px;
+        padding: 0 0 10px 0;
+    }
+}
+/*------------------------------------------------------ 470 ---------------------------------------------------------------------------------------- */
+@media(max-width:470px) {
+    .container {
+        width: 100% !important;
+        margin: 0 auto;
+        padding: 0 20px;
+    }
+    .link ul {
+        display: block;
+    }
+
+    .link ul li {
+        padding: 0 0 3px 0;
+        /* background-color: rgb(0, 0, 0); */
+        /* color: rgb(255, 255, 255); */
+    }
+    .link ul li a{
+        background-color: black;
+        font-size: 15px;
+        margin: 0 15px;
+    }
+    .col-50 img {
+        padding: 5px 0 0 0;
+    }
+
+    .sec-onebutton input {
+        padding: 4px 8px;
+    }
+
+    .logo img {
+        width: 40%;
+    }
+
+    .col-30 h4 {
+        font-size: 18px;
+    }
+
+    .col-30 p {
+        width:100%;
+        font-size: 16px;
+        padding: 5px 0;
+    }
+.col-20 li a{
+    font-size: 15px;
+}
+    .sec-twobutton {
+        padding: 10px 0;
+    }
+
+    .sec-twobutton input {
+        padding:2px 2px;
+        font-weight: 550;
+    }
+
+    .sec-oneh1 h1 {
+        font-size: 30px;
+        padding: 20px 0;
+    }
+
+    .col-50 {
+        width: 100%;
+        margin: 0 auto;
+        display: block;
+    }
+
+    .col-30{
+        padding: 5px;
+        width: 100%;
+        margin: 0 auto;
+        display: block;
+    }
+    .ftr{
+        display: block;
+    }
+
+    .col-20 {
+        padding: 5px;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .sec4img img {
+        width: 100%;
+    }
+
+    .col-50 h2 {
+        font-size: 24px;
+        padding: 15px 0;
+    }
+
+    .sec-twoh1 h1 {
+        padding: 10px 0;
+        font-size: 22px;
+    }
+
+    .sec-threeh1 h1 {
+        font-size: 25px;
+        padding: 5px 0;
+    }
+
+    .col-50 p {
+        padding: 7px 0 20px 0;
+        font-size: 16px;
+        width: 100%;
+    }
+
+    .sec-threeh1 {
+        padding: 30px 0 14px 0;
+    }
+
+    .sec-threebutton {
+        padding: 0 0 15px 0;
+    }
+
+    .sec-threecol-50 {
+        padding: 0 0 10px 0;
+    }
+
+    .sec-threebutton input {
+        padding:2px 2px;
+        font-weight: 550;
+    }
+
+    .sec-twop p {
+        font-size: 15px;
+        width: 100%;
+        padding: 0;
+    }
+
+    .sec4p p {
+        font-size: 15px;
+    }
+
+    .sec5h1 h1 {
+        padding: 5px 0;
+        font-size: 40px;
+    }
+
+    .sec5p p {
+        font-size: 18px;
+        padding: 5px 0;
+        width: 100%;
+    }
+
+    .sec6h1 h1 {
+        padding: 5px 0 0 0;
+        font-size: 45px;
+    }
+
+    .sec6p p {
+        font-size: 18px;
+        padding: 15px 0;
+        width: 100%;
+    }
+
+    .sec6eml input {
+        font-size: 10px;
+        padding: 8px 25px;
+    }
+
+    .sec6sub input {
+        font-size: 10px;
+        left: 50px;
+        bottom: 27px;
+        padding: 8px 8px;
+    }
+
+    .col-30 h1 {
+        font-size: 22px;
+        padding: 0 0 10px 0;
+    }
+
+    .col-20 h1 {
+        font-size: 22px;
+        padding: 0 0 10px 0;
+    }
+}
